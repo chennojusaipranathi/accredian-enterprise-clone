@@ -1,0 +1,20 @@
+
+.cards{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.main{
+    text-align: center;
+}
+
+.cards div{
+    height: 192px;
+    width: 115.67px;
+}
+.cards div img{
+    height:96px ;
+    width:83.67;
+}

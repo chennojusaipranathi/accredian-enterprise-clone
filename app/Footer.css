@@ -1,0 +1,106 @@
+
+.footer{
+    width: 88%;
+    max-width: 1200px;
+}
+
+/* top section */
+.Footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 40px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.icons img{
+    height: 42.23px;
+    width: 144px;
+}
+
+.icon{
+    display: flex;
+    gap: 25px;
+}
+
+.icon a{
+    font-size: 32px;
+    color: #374151;
+    transition: .3s;
+     height: 20px;
+    width: 20px;
+}
+
+.icon a:hover{
+    color: #2563eb;
+}
+
+/* button */
+.Footer button{
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    height: 44px;
+    width: 152.91px;
+}
+
+.Footer p{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #374151;
+}
+
+/* divider */
+.footer hr{
+    margin: 40px 0;
+    border: none;
+    height: 1px;
+    background: #cbd5e1;
+}
+
+/* bottom section */
+.footer-links{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3rem;
+   margin-left: 3rem;
+}
+
+
+.footer-links h3{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.footer-links a,
+.footer-links p{
+    display: block;
+    text-decoration: none;
+    color: #1f2937;
+    font-size: 16px;
+}
+
+/* copyright */
+.copyright{
+    border-top: 1px solid #cbd5e1;
+    padding-top: 16px;
+
+    text-align: center;
+    font-size: 16px;
+    color: #374151;
+    margin-bottom: 50px;
+}
+
+.left{
+    text-align: start;
+}
+
+.right{
+    text-align: end;
+}

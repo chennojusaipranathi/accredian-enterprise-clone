@@ -1,0 +1,61 @@
+
+
+.heading p{
+    font-size: 18px;
+    line-height: 3;
+    color: #374151;
+}
+#Stats{
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.users{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8rem;
+}
+
+.card{
+    text-align: start;
+    margin-top: 3rem;
+    padding: 2%;
+    width: 223.55px;
+    height: 136px;
+    border-right: 0.1px solid gray; 
+  
+   margin-left: 5rem;
+}
+
+.ecard{
+     text-align: start;
+    margin-top: 3rem;
+    padding: 2%;
+    width: 223.55px;
+    height: 136px;
+   margin-left: 5rem;
+}
+.card button{
+    height: 48px;
+    width: 96px;
+    border-start-end-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
+    font-size: 24px;
+    color: #1A73E8;
+    margin-bottom: 2rem;
+}
+
+.ecard button{
+     height: 48px;
+    width: 96px;
+    border-start-end-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
+    font-size: 24px;
+    color: #1A73E8;
+    margin-bottom: 2rem;
+}
