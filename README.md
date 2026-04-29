@@ -40,7 +40,7 @@ A responsive partial clone of the Accredian Enterprise landing page built as par
 ## Live Demo
 My Vercel Link is
 
-accredian-enterprise-clone-ci8mk8xuc.vercel.app
+https://accredian-enterprise-clone-ci8mk8xuc.vercel.app
 
 
 ## GitHub Repository
@@ -159,4 +159,3 @@ Manual improvements:
 
 ## Notes
 This is a partial clone created for evaluation purposes and focuses on structure, responsiveness, and reusable component design rather than exact pixel-perfect duplication.
->>>>>>> c32d3c6c0597b34b6f24c0ac1db1f1ac9e9f12ce
