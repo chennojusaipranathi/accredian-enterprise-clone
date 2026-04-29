@@ -41,7 +41,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 A responsive partial clone of the Accredian Enterprise landing page built as part of a Full Stack Developer Internship assignment.
 
 ## Live Demo
-Add your Vercel link here:
+My Vercel Link is
+
+accredian-enterprise-clone-ci8mk8xuc.vercel.app
 
 
 ## GitHub Repository
